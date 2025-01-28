@@ -4,7 +4,7 @@ This repo contains materials for the course ErSE328 Advanced Seismic Inversion c
 
 # Getting started
 
-Throughout the computational part of the course, we will mainly be utilizing the Deepwave Python library which you can access from their [repository](https://git@github.com:alaliaa/ErSE328-AdvancedSeismicInversion.git). To get yourself started, you can directly learn the Deepwave fundamentals from their [documentations](https://ausargeo.com/deepwave/).
+Throughout the computational part of the course, we will mainly be utilizing the Deepwave Python library which you can access from their [repository](https://git@github.com:alaliaa/ErSE328-AdvancedSeismicInversion.git). To get yourself started, you can directly learn the Deepwave fundamentals from their [documentations]([https://ausargeo.com/deepwave/](https://ausargeo.com/deepwave/)).
 
 To install the environment, run the following command:
 ```
